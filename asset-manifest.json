@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/retro-world-clock/static/css/main.1f1b00aa.css",
-    "main.js": "/retro-world-clock/static/js/main.97024776.js",
+    "main.js": "/retro-world-clock/static/js/main.3cd9d2d9.js",
     "index.html": "/retro-world-clock/index.html",
     "main.1f1b00aa.css.map": "/retro-world-clock/static/css/main.1f1b00aa.css.map",
-    "main.97024776.js.map": "/retro-world-clock/static/js/main.97024776.js.map"
+    "main.3cd9d2d9.js.map": "/retro-world-clock/static/js/main.3cd9d2d9.js.map"
   },
   "entrypoints": [
     "static/css/main.1f1b00aa.css",
-    "static/js/main.97024776.js"
+    "static/js/main.3cd9d2d9.js"
   ]
 }
